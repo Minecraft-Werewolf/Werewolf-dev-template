@@ -1,4 +1,4 @@
-# Werewolf-Core
+# Werewolf-dev-template
 **Stable Script API**
 - @minecraft/server - 2.0.0
 - @minecraft/server-ui - 2.0.0
