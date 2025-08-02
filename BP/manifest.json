@@ -15,14 +15,14 @@
 		"name": "",
 		"description": "",
 		"min_engine_version": [ 1,21,90 ],
-		"uuid": "",
+		"uuid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
 		"version": [ 1,0,0 ]
 	},
 	"modules": [
 		{
 			"type": "script",
 			"language": "javascript",
-			"uuid": "",
+			"uuid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
 			"entry": "scripts/index.js",
 			"version": [ 1,0,0 ]
 		}
