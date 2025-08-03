@@ -10,7 +10,7 @@ export const properties = {
         ]
     },
     header: {
-        name: "Werewolf-template",
+        name: "Werewolf-dev-template",
         description: "",
         min_engine_version: [1, 21, 90],
         version: [1, 0, 0],
